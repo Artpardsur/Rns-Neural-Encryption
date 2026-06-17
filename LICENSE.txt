@@ -1,0 +1,43 @@
+Custom License for RNS Neural Encryption
+
+Copyright (c) 2026 Artem B. Lidzhiev, Igor A. Kalmykov, 
+Tatyana A. Peleshenko, Alexander S. Gish
+
+All rights reserved.
+
+1. Permitted Uses
+
+This software and its source code may be used, copied, modified, and distributed 
+for non-commercial purposes only, provided that:
+
+(a) The above copyright notice and this permission notice are included in all 
+    copies or substantial portions of the Software.
+
+(b) Proper attribution is given to the authors in any derivative works or 
+    publications that use this Software.
+
+(c) A clear citation to the original work is provided:
+    "Lidzhiev, A.B., Kalmykov, I.A., Peleshenko, T.A., Gish, A.S.: 
+    Development of a Post-Quantum Encryption Algorithm for Neural Networks 
+    Based on Modular Codes. In: AISMA-2026, Springer (2026)"
+
+2. Commercial Use
+
+Commercial use of this Software, including but not limited to:
+- Integration into proprietary products
+- Use in paid services or platforms
+- Sale, licensing, or distribution for financial gain
+
+is STRICTLY PROHIBITED without prior written permission from the authors.
+
+For commercial licensing inquiries, please contact:
+Artem B. Lidzhiev: artemlidzhiev.4444@gmail.com
+
+3. No Warranty
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN 
+ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION 
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
